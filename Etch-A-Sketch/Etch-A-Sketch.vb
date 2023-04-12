@@ -6,7 +6,7 @@ Imports System.Runtime.Intrinsics.X86
 'RCET0265
 'Spring 2023
 'Etch-A-Sketch
-'
+'https://github.com/bbre1666/Etch-A-Sketch.git
 
 
 Public Class EtchASketch
